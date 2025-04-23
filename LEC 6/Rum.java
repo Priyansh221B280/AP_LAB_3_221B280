@@ -9,5 +9,4 @@ public class Rum extends Decorator {
     public String getName() {
         return offering.getName()+" with Rum";
     }
-
 }
